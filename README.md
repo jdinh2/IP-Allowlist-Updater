@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/ElWjENc.png" alt="Google Logo" width="200" height="200" />
+</p>
+
+
 # IP-Allowlist-Updater
 
 ### Project Description
